@@ -1,4 +1,4 @@
-React simple starter template
+Simple react starter template
 Using: 
 - React hook
 - React-router-dom
