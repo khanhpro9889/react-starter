@@ -6,3 +6,4 @@ Using:
 - Material-UI
 - Redux
 - Redux-thunk
+- Styled-components
